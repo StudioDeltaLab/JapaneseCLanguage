@@ -1,6 +1,9 @@
+> A Studio.Δ project by **Norifumi Kondo**  
+> © 2024–2025 Norifumi Kondo · Studio.Δ — JapaneseCLanguage Project
+
 # JCL – Japanese C Language（公式ポータル）
 
-> **日本語で書ける、C言語学習のための教育向け言語エコシステム**  
+> **日本語で書ける、C言語学習のための教育向け言語**  
 > JCLは「日本語キーワード → C言語」への変換を通じて、初学者の学習曲線をなめらかにします。
 
 [![Latest Release – Extension](https://img.shields.io/github/v/release/Konoa-1025/JCL-Extension?label=VSCode%20Extension)](https://github.com/Konoa-1025/JCL-Extension/releases)
@@ -117,5 +120,7 @@ JCLで書いたコードをトランスパイルすると、対応する**Cコ�
 
 ## ライセンス・クレジット
 - License: MIT（各リポジトリ参照）  
-> A Studio.Δ project by **Norifumi Kondo**  
-> © 2024–2025 Norifumi Kondo · Studio.Δ — JapaneseCLanguage Project
+- Copyright (c) 2024–2025 Norifumi Kondo (Studio.Δ)
+- This software is part of the JapaneseCLanguage Project.
+- ASCII alias: Studio-Delta
+
